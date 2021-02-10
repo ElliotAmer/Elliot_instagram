@@ -40,7 +40,7 @@ This tool helping you to get Instagram users informations without login to your 
 
 # RUNNING
 ```
-   cd Elliot
+   cd Elliot_instagram
    cd Elliot1
    cd Dump_Instagram_Information_OF_ANY_ACCOUNT
    python3 Elliot.py
