@@ -2,13 +2,13 @@
 
 <p align="center">
    <a href="https://www.facebook.com/zqww.done/">
-      <img src="Dump_info.png">
+      <img src="https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Dump_info.png">
    </a>
    <a href="https://www.facebook.com/zqww.done/">
-      <img src="Dump_info.png">
+      <img src="https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Dump_info.png">
    </a>
    <a href="https://www.facebook.com/zqww.done/">
-      <img src="Elliot-Instagram.png">
+      <img src="https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Dump_info.png">
    </a>
 </p>
    
