@@ -8,9 +8,8 @@
       <img src="https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Elliot-Instagram.png">
 </p>
    
-   
-```
-```
+
+
 ```
 #Dump-Instagram-Information-OF-ANY-ACCOUNT
 ```
