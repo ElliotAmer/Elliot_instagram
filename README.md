@@ -138,4 +138,4 @@ This tool helping you to get Instagram users informations without login to your 
 
 
 
-![Instagram_Account](@0nlymohammed)
+!Instagram_Account-[@0nlymohammed]
