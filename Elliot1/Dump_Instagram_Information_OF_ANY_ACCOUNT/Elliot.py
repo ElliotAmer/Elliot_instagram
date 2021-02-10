@@ -35,7 +35,7 @@ except ModuleNotFoundError:
 ###########
 headers_useragents=[]
 dict = {
-	"FirstMsg" :   "		WELCOME TO ZXLLKADA TOOLS\n		How Are You Doing ? ",
+	"FirstMsg" :   "		Hello Facebook security team\n		How Are You Doing ? ",
 	"Answer" : " I Hope You're Good",
 	"Spaces" : "\n",
 	"No Internet" : " You Are Not Connected ",
