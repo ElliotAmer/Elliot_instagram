@@ -5,10 +5,10 @@
       <img src="https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Dump_info.png">
    </a>
    <a href="https://www.facebook.com/zqww.done/">
-      <img src="https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Dump_info.png">
+      <img src="https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Elliot-Instagram.png">
    </a>
    <a href="https://www.facebook.com/zqww.done/">
-      <img src="https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Dump_info.png">
+      <img src="https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Elliot-Instagram.png">
    </a>
 </p>
    
