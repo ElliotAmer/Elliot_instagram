@@ -60,9 +60,9 @@ dict = {
 ''',
 	"Draw" : '''
 
-	    + - -- [ BY KADA ]
-	    + - -- [ V 13.7 ]
-	    + - -- [ For V 28.6 PRO - Telegram : @Zkada ]
+	    + - -- [ BY Elliot ]
+	    + - -- [ V 1.0 ]
+	    + - -- [ Facebook: Elliot Amer ]
 	    + - -- [ Get Instagram Users Info ]
 
 	>>>  EXIT USE : CTRL + C + ENTER  <<<
@@ -72,7 +72,7 @@ dict = {
 	  、[ GET USERS FROM ANY HASHTAG ]
 ''',
 	"Draw3" : '''
-		、[ ONLY ON TELEGRAM CHANNEL ]
+		、[ Elliot Amer ]
 
 ''',
 	"Target" : {
@@ -931,7 +931,7 @@ class DumpFromJsonFile :
 # ASK
 def Ask():
     try :
-        command = input (LB+"Zxll "+R+"/ "+LB+"USERNAME "+R+"> "+W)
+        command = input (LB+"Elliot "+R+"/ "+LB+"USERNAME "+R+"> "+W)
         if command.lower() == "help" :
             print (dict["Help"])
             Ask()
