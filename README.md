@@ -22,7 +22,7 @@
 
 
 ``Screenshot``
-![Elliot-Amer](Elliot-Instagram.png)
+![Elliot-Amer](https://github.com/ElliotAmer/Elliot_instagram/blob/main/Elliot1/Elliot-Instagram.png)
 This tool works prefect on termux without any ERRORS
 * https://www.facebook.com/zqww.done/
 * I developed using python3
