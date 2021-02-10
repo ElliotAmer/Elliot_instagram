@@ -35,7 +35,7 @@ This tool helping you to get Instagram users informations without login to your 
    pkg update && upgrade
    pkg install git python
    pip install requests igql
-   git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
+   git clone https://github.com/ElliotAmer/Elliot_instagram.git
 ```
 
 # RUNNING
