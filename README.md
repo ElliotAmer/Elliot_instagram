@@ -135,7 +135,4 @@ This tool helping you to get Instagram users informations without login to your 
 [^] SAVE PRIFILE PIC INFO
 [^] SAVE LAST POST WITH INFO
 ```
-
-
-
-!Instagram_Account-[@0nlymohammed]
+Instagram_Account-[@0nlymohammed]
